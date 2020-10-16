@@ -1,5 +1,7 @@
 # Bin2Dec
 
+Retirado de: https://github.com/florinpop17/app-ideas
+
 **Categoria:** 1-Iniciante
 
 Binário é o sistema numérico no qual todos os computadores digitais são baseados.
